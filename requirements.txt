@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+transformers==4.36.0
+peft==0.7.1
+torch==2.1.0
+accelerate==0.25.0
+bitsandbytes==0.41.3
+safetensors==0.4.1
+sentencepiece==0.1.99
+protobuf==3.20.3
